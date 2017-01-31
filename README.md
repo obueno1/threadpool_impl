@@ -1,10 +1,10 @@
 #Hiring test for FieldLens
 
 ##Task
-Given a text file containing a list of urls, determine, concurrently, in a pool of 20 threads, whether a search term is contained by the response from HTTP GET per url.
+Given a text file containing a list of urls, determine, concurrently, in a pool of 20 threads, whether a search term is contained within the response from HTTP GET per url. Write URL to "results.txt" file if match is found.
 
 ##Approach
-Implemented Thread Pool design pattern using Java 8 functional features including lamdas and stream api.
+Implemented Thread Pool design pattern using Java 8 functional features including lamdas and Stream API.
 
 Used Interfaces for URL Read/Write for testing east and modularly/easily adjusting sources and sinks.
 
