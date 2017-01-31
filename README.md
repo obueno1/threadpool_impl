@@ -20,5 +20,6 @@ Used Interfaces for URL Read/Write for testing east and modularly/easily adjusti
 *Improve naming conventions<br>
 *Decouple dependencies<br>
 *Use Guice more thoroughly for dependency injection<br>
+*Improve Testing coverage<br>
 *Improve logging configurations<br>
-*Add Travis CI configurations for automated unit/integration testing
+*Include Travis CI configurations for automated unit/integration testing
